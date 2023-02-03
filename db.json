@@ -2,14 +2,5 @@
   "id": 1,
   "is_zoho_complete": "No",
   "is_laptop_required": "No",
-  "mooc_courses": "No",
-  "onboard_email_details": "No",
-  "employee_documentation": "No",
-  "onboard_nda": "No",
-  "intro_email": "No",
-  "nex_whatsapp_group": "No",
-  "access_of_required_file": "No",
-  "is_shared_intro_ppt": "No",
-  "policies_of_company": "Yes",
-  "huddle_invite": "Yes"
+  "mooc_courses": "No"
 }
